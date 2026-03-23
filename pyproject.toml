@@ -1,7 +1,9 @@
-[project]
+[Brown Clustering with Finnish text data]
 name = "bronwcluster"
 version = "0.1.0"
-description = "Add your description here"
+description = "Trying out brown clustering with Finnish text data."
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "brown-clustering>=0.1.6",
+]
